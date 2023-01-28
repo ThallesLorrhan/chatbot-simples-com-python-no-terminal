@@ -1,7 +1,7 @@
 import os 
 def processar_resposta(resposta,nome):
    if resposta == '1':
-      print(f"{ os.linesep}{nome} este chat funciona 100% em python através de uma pequena capitassão de seus dados e com resposta já programadas{ os.linesep}")
+      print(f"{ os.linesep}{nome} este chat funciona 100% em python através de uma pequena captação de seus dados e com resposta já programadas{ os.linesep}")
    elif resposta == '2':
       print(f"{ os.linesep}{nome} nós podemos fazer que você saiba tudo sobre nosso chat :) { os.linesep}")
    else:
